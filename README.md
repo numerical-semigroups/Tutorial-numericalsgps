@@ -1,2 +1,2 @@
 # Tutorial-numericalsgps
-Tutirials for the gap package numericalsgps
+Tutorials for the gap package numericalsgps
